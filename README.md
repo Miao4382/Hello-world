@@ -4,4 +4,10 @@ This is the first demo of github repository. This project is built following the
 
 I've added some notes here
 
+
+Possible file version conflict
+
+And another line is added here
+
 This part is added in the branch of master, which will be merged into master later
+
